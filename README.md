@@ -21,4 +21,4 @@ File: `Day25_AI-Team-Lab_Team3CE.pdf`
 
 ## Ghi chú dùng AI
 
-Nhóm dùng AI để gợi ý stakeholder, rút gọn pitch, kiểm tra RACI và chuyển vấn đề Team Health thành hành động. Mọi số liệu lấy từ bài Day 24 của nhóm (`3CE_CS9.xlsx`); không có feedback khách hàng nào được bịa ra. Stance của stakeholder là giả định, nhóm sẽ kiểm tra bằng phỏng vấn tuần 14–20/10. RACI và Growth Plan do cả nhóm thảo luận và chốt.
+Nhóm dùng AI để gợi ý stakeholder, rút gọn pitch, kiểm tra RACI và chuyển vấn đề Team Health thành hành động. Mọi số liệu lấy từ bài Day 24 của nhóm (`3CE_CS9.xlsx`); không có feedback khách hàng nào được bịa ra. Stance của stakeholder là giả định, nhóm sẽ kiểm tra bằng phỏng vấn tuần 14–20/10. Danh sách stakeholder gộp từ bản cá nhân của các thành viên; Linh tổng hợp và chốt bản cuối sau khi nhận góp ý.
